@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}       
+
+.header-img {
+    width: 60px;
+    height: 50px;
+}
+
+.honeycraftlogo {
+    width: 50px;
+    height: 50px;
+}
+
+h1 {
+margin: 0 15px;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    margin: 0 1em;
+    border-radius: 5px;
+    background-color: #555;
+}
+
+nav a:hover {
+    background-color: #777;
+}
+
+section {
+padding: 1em;
+}
+
+section p {
+margin-bottom: 2em;
+}
+
+
+#discord, #honeycraft-description, #rules, #contact, #votes {
+color: #fffcfc;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#discordip {
+    color: white;
+    line-height: 2.0;
+}
+
+#discordip h2{
+    color: white;
+    line-height: 1.5;
+}
+
+#discordip p{
+    color:  white;
+    line-height: 1.5;
+}
+
+#rules {
+    line-height: 1.5;
+}
+#votes {
+    color: white;
+    line-height: 1.5;
+}
